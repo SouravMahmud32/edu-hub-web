@@ -6,3 +6,15 @@
 .button_two{
     text-align: center;
 }
+
+.icons{
+    padding-left: 300px;
+}
+
+.fa-star{
+    color: yellow;
+}
+
+.fa-star-half{
+    color: yellow;
+}
