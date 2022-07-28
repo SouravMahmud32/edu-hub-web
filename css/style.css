@@ -1,10 +1,161 @@
+/* font style link */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+
+/* nav part start */
+
+.nav-icon{
+    font-size: 40px;
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+}
+
+.nav-option{
+    font-size: 18px;
+    font-weight: 400;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* nav part end */
+
+/* banner part start */
+
+.banner_text{
+    text-align: center;
+}
+
+
 .overly{
     filter: brightness(50%);
     -webkit-filter: brightness(50%);
 }
 
+.banner_text h2{
+    font-size: 30px;
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+}
+
+.banner_text p{
+    color: #f3e8e8;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+/* banner part start */
+
+/* package part start */
+
+.package-text h2{
+    font-size: 45px;
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+}
+
+.package-text p{
+    color: #777777;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'Poppins', sans-serif;
+}
+
+.package-detail-text h3{
+    color: #4A4A4A;
+    font-size: 25px;
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+}
+
+.package-detail-text p{
+    color: #777777;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'Poppins', sans-serif;
+}
+
+.package-detail-text h4{
+    color: #289BDE;
+    font-size: 18px;
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+
+/* package part end */
+
+/* Explore part Start */
+
+.explore-text h3{
+    color: #4A4A4A;
+    font-size: 25px;
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+}
+
+.explore-text p{
+    color: #777777;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* Explore part End */
+
+/* Testimonial Part Start */
+.testimonial-head{
+    color: #1d1d1d;
+    font-size: 45px;
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+}
+.testimonial-para{
+    color: #777777;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'Poppins', sans-serif;
+}
+.testimonial-para h5{
+    color: #4A4A4A;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+}
+/* Testimonial Part End */
+
+
+
 .button_two{
     text-align: center;
+}
+/* Feedback Part Start */
+.feedback-head{
+    color: #1d1d1d;
+    font-size: 45px;
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+}
+
+.feedback-para{
+    color: #777777;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'Poppins', sans-serif;
+}
+
+.feedback-text p{
+    color: #777777;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'Poppins', sans-serif;
+}
+
+.feedback-text h5{
+    color: #1d1d1d;
+    font-size: 18px;
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
 }
 
 .icons{
@@ -12,26 +163,81 @@
 }
 
 .fa-star{
-    color: yellow;
+    color: #ffff0b;
 }
 
 .fa-star-half{
-    color: yellow;
+    color: #ffff00;
+}
+
+
+/* Feedback Part End */
+
+/* Q & A PART START */
+.question-head{
+    color: #1d1d1d;
+    font-size: 45px;
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+}
+.question-para{
+    color: #777777;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'Poppins', sans-serif;
+}
+/* Q & A PART END */
+
+/* PARTNER COMPANIES PART START */
+
+.partner-head{
+    color: #1d1d1d;
+    font-size: 45px;
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* PARTNER COMPANIES PART END */
+
+
+/* Footer Part Start */
+.footer_text h2{
+    color: #f1f1f1;
+    font-size: 45px;
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+}
+
+.footer_text p{
+    color: #f1efef;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'Poppins', sans-serif;
 }
 
 .fa-instagram{
     color: white;
+    font-size: 20px;
+    padding-left: 10px;
 }
 
 .fa-facebook{
     color: white;
+    font-size: 20px;
+    padding-left: 10px;
 }
 
 .fa-twitter{
     color: white;
+    font-size: 20px;
+    padding-left: 10px;
 }
 
 .fa-youtube{
     color: white;
+    font-size: 20px;
+    padding-left: 10px;
 }
 
+
+/* Footer Part Start */
